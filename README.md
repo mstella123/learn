@@ -1,2 +1,2 @@
 # learn
-Learning
+Learning for the course.
